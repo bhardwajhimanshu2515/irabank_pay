@@ -1,4 +1,4 @@
-package com.irabank.pay;
+package com.irabankpay.userapp;
 
 import android.os.Build;
 import android.os.Bundle;
